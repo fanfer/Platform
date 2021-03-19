@@ -23,8 +23,8 @@
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
-        android:id="@+id/wantingsFragment"
+        android:id="@+id/nav_wantings"
         android:name="com.example.platform.WantingsFragment"
-        android:label="fragment_wantings"
+        android:label="@string/menu_wantings"
         tools:layout="@layout/fragment_wantings" />
 </navigation>

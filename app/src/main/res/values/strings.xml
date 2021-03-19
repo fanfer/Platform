@@ -10,7 +10,7 @@
     <string name="menu_home">我的发布</string>
     <string name="menu_gallery">网络商城</string>
     <string name="menu_slideshow">个人中心</string>
-    <string name="nav_wantings">愿望清单</string>
+    <string name="menu_wantings">愿望清单</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
